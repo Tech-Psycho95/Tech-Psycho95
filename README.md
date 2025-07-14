@@ -38,7 +38,7 @@
 
 ## **Stats Dashboard**
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tech-Psycho95&theme=monokai)
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tech-Psycho95&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tech-Psycho95&show_icons=true&theme=tokyonight&width=500&height=300)
 
 ##
 ✨ I'm passionate about learning, experimenting, and bringing ideas to life—one line of code at a time.
