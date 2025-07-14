@@ -1,34 +1,39 @@
-# 👋 Hello, I'm Shivam!
+## 👋 Hello, **I'm Shivam!**
 
-💡 I’m a beginner web developer exploring the world of frontend design, static and dynamic websites.
+💡 I’m a beginner web developer exploring the world of **frontend design, static and dynamic websites.**
+   My interest also lies in **ethical hacking** and **game development**.
 
-## **🌱 Learning Goals:**
+### **🌱 Learning Goals:**
 - Building clean and responsive layouts
 - Adding cool animations with CSS & JavaScript
 - Understanding Git & GitHub workflows more in depth
 - To build good games using C++ and game engines
 
 ## **💻 What I’ve Built So Far:**
-- 📺 Netflix Clone (UI clone)
+- 📺 Netflix UI Clone 
 - 🖼 Basic HTML blog page on INDIA
 
+---
+
 ## **🔧 Tools & Skills:**
-* HTML CSS Python
-* Git
-* GitHub  
-* Debugging & Creative UI Design  
+![HTLM5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&labelColor=white)
+![CSS](https://img.shields.io/badge/CSS-white?style=plastic&logo=CSS&labelColor=%23663399)
+![Python](https://img.shields.io/badge/Python-white?style=plastic&logo=python&labelColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&labelColor=white)
 
 
-## 📫 Online Profiles
-- [GitHub](https://github.com/Tech-Psycho95/)
-- [LinkedIn](https://www.linkedin.com/in/shivam-singh-a879602ba/)
+
+## 📫 **Online Profiles**
+![GitHub](https://img.shields.io/badge/GitHub-profile?style=flat&logo=GitHub&logoColor=black&labelColor=white&color=black&link=https%3A%2F%2Fgithub.com%2FTech-Psycho95%2F)
+![LinkedIn](https://img.shields.io/badge/Linked-in-blue?labelColor=black&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshivam-singh-a879602ba%2F)
 
 
-## 🧠 Practice Platforms
-- [CodeChef](https://www.codechef.com/users/omaratsu_53/)
-- [Leetcode](https://leetcode.com/u/tech-psycho95/)
+## 🧠 **Practice Platform Profiles**
+![CodeChef](https://img.shields.io/badge/CodeChef-white?style=flat&logo=CodeChef&logoColor=brown&link=https%3A%2F%2Fleetcode.com%2Fu%2Ftech-psycho95%2F)
+![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black&link=https%3A%2F%2Fleetcode.com%2Fu%2Ftech-psycho95%2F)
 
 
-  ---
-  
+---
+
+
 ✨ I'm passionate about learning, experimenting, and bringing ideas to life—one line of code at a time.
