@@ -29,13 +29,18 @@
 
 
 ## 🧠 **Practice Platform Profiles**
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/omaratsu_53)
 [![CodeChef](https://img.shields.io/badge/CodeChef-white?style=flat&logo=CodeChef&logoColor=brown)](https://www.codechef.com/users/omaratsu_53)
 [![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/tech-psycho95)
 
 
 ---
 
+## **Stats Dashboard**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tech-Psycho95&theme=monokai)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tech-Psycho95&show_icons=true&theme=radical)
 
+##
 ✨ I'm passionate about learning, experimenting, and bringing ideas to life—one line of code at a time.
 
 ---
