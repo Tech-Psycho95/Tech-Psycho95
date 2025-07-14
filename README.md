@@ -24,13 +24,13 @@
 
 
 ## 📫 **Online Profiles**
-![GitHub](https://img.shields.io/badge/GitHub-profile?style=flat&logo=GitHub&logoColor=black&labelColor=white&color=black&link=https%3A%2F%2Fgithub.com%2FTech-Psycho95%2F)
-![LinkedIn](https://img.shields.io/badge/Linked-in-blue?labelColor=black&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshivam-singh-a879602ba%2F)
+[![GitHub](https://img.shields.io/badge/GitHub-profile?style=flat&logo=GitHub&logoColor=black&labelColor=white&color=black)](https://github.com/Tech-Psycho95)
+[![LinkedIn](https://img.shields.io/badge/Linked-in-blue?labelColor=black&color=blue)](www.linkedin.com/in/shivam-singh-a879602ba)
 
 
 ## 🧠 **Practice Platform Profiles**
-![CodeChef](https://img.shields.io/badge/CodeChef-white?style=flat&logo=CodeChef&logoColor=brown&link=https%3A%2F%2Fleetcode.com%2Fu%2Ftech-psycho95%2F)
-![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black&link=https%3A%2F%2Fleetcode.com%2Fu%2Ftech-psycho95%2F)
+[![CodeChef](https://img.shields.io/badge/CodeChef-white?style=flat&logo=CodeChef&logoColor=brown)](https://www.codechef.com/users/omaratsu_53)
+[![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/tech-psycho95)
 
 
 ---
