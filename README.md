@@ -28,6 +28,6 @@
 - [Leetcode](https://leetcode.com/u/tech-psycho95/)
 
 
-  --
+  ---
   
 ✨ I'm passionate about learning, experimenting, and bringing ideas to life—one line of code at a time.
