@@ -25,7 +25,7 @@
 
 ## 📫 **Online Profiles**
 [![GitHub](https://img.shields.io/badge/GitHub-profile?style=flat&logo=GitHub&logoColor=black&labelColor=white&color=black)](https://github.com/Tech-Psycho95)
-[![LinkedIn](https://img.shields.io/badge/Linked-in-blue?labelColor=black&color=blue)](www.linkedin.com/in/shivam-singh-a879602ba)
+[![LinkedIn](https://img.shields.io/badge/Linked-in-blue?labelColor=black&color=blue)](https://linkedin.com/in/shivam-singh-a879602ba)
 
 
 ## 🧠 **Practice Platform Profiles**
