@@ -2,20 +2,21 @@
 
 💡 I’m a beginner web developer exploring the world of frontend design, static and dynamic websites.
 
-## 🌱 Learning Goals
+## **🌱 Learning Goals:**
 - Building clean and responsive layouts
 - Adding cool animations with CSS & JavaScript
 - Understanding Git & GitHub workflows more in depth
 - To build good games using C++ and game engines
 
-## 💻 What I’ve Built So Far
+## **💻 What I’ve Built So Far:**
 - 📺 Netflix Clone (UI clone)
 - 🖼 Basic HTML blog page on INDIA
 
-## 🔧 Tools & Skills
-- HTML • CSS • Python
-- Git • GitHub  
-- Debugging & Creative UI Design  
+## **🔧 Tools & Skills:**
+* HTML CSS Python
+* Git
+* GitHub  
+* Debugging & Creative UI Design  
 
 
 ## 📫 Online Profiles
