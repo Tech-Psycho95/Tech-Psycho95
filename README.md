@@ -38,4 +38,4 @@
 
 ✨ I'm passionate about learning, experimenting, and bringing ideas to life—one line of code at a time.
 
-![snake gif](https://github.com/Tech-Psycho95/Tech-Psycho95/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Tech-Psycho95/Tech-Psycho95/blob/output/github-contribution-grid-snake.svg)
