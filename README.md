@@ -32,6 +32,10 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-white?style=flat&logo=CodeChef&logoColor=brown)](https://www.codechef.com/users/omaratsu_53)
 [![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/tech-psycho95)
 
+---
+
+![snake gif](https://github.com/Tech-Psycho95/Tech-Psycho95/blob/output/github-contribution-grid-snake.gif)
+
 
 ---
 
