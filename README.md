@@ -20,17 +20,20 @@
 ![CSS](https://img.shields.io/badge/CSS-white?style=plastic&logo=CSS&labelColor=%23663399)
 ![Python](https://img.shields.io/badge/Python-white?style=plastic&logo=python&labelColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&labelColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000?logo=Vercel)
+![Netlify](https://img.shields.io/badge/Netlify-orange?logo=Netlify&labelColor=black)
 
 
 
-## 📫 **Online Profiles**
+## 📫 **Online Profiles:**
 [![GitHub](https://img.shields.io/badge/GitHub-profile?style=flat&logo=GitHub&logoColor=black&labelColor=white&color=black)](https://github.com/Tech-Psycho95)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-blue?labelColor=black&color=blue)](https://linkedin.com/in/shivam-singh-a879602ba)
 
 
-## 🧠 **Practice Platform Profiles**
+## 🧠 **Practice & Learninig Platform:**
 [![CodeChef](https://img.shields.io/badge/CodeChef-white?style=flat&logo=CodeChef&logoColor=brown)](https://www.codechef.com/users/omaratsu_53)
 [![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/tech-psycho95)
+![Exercism](https://img.shields.io/badge/Exercism-black?logo=Exercism&labelColor=white)
 
 
 ---
