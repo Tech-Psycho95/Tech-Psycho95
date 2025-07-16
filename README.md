@@ -41,7 +41,7 @@
 ## **Stats Dashboard**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tech-Psycho95&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tech-Psycho95&theme=monokai" width="475"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tech-Psycho95&theme=monokai" width="475"/>
 </p>
 
 ##
