@@ -25,6 +25,7 @@
 
 
 
+
 ## 📫 **Online Profiles:**
 [![GitHub](https://img.shields.io/badge/GitHub-profile?style=flat&logo=GitHub&logoColor=black&labelColor=white&color=black)](https://github.com/Tech-Psycho95)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-blue?labelColor=black&color=blue)](https://linkedin.com/in/shivam-singh-a879602ba)
@@ -38,13 +39,20 @@
 
 ---
 
+### 🏆 **Trophy Rack:**
+![Trophies](https://github-profile-trophy.vercel.app/?username=Tech-Psycho95&theme=onedark)
+
+---
+
 ## **Stats Dashboard**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tech-Psycho95&show_icons=true&theme=radical" width="450"/>
-  <img src="https://leetcard.jacoblin.cool/Tech-Psycho95?theme=dark&font=Roboto&ext=activity">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tech-Psycho95&show_icons=true&theme=radical" width="450" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Psycho95&layout=compact&theme=radical" width="400" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tech-Psycho95&theme=dark" width="430" />
 </a>
-   
 </p>
+
+---
 
 ##
 ✨ I'm passionate about learning, experimenting, and bringing ideas to life—one line of code at a time.
