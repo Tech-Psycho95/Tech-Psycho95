@@ -50,7 +50,7 @@
 </p>
 <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Psycho95&layout=compact&theme=radical" width="400" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tech-Psycho95&theme=dark" width="450" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tech-Psycho95&theme=dark" width="430" />
 </p>
 
 ---
