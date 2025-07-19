@@ -48,7 +48,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tech-Psycho95&show_icons=true&theme=radical" width="450" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Psycho95&layout=compact&theme=radical" width="400" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tech-Psycho95&theme=dark" width="300" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tech-Psycho95&theme=dark" width="350" />
 </a>
 </p>
 
