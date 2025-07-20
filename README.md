@@ -47,14 +47,8 @@
 ---
 
 ## **Stats Dashboard**
-<div align="center">
-  <a href="https://github.com/tech-psycho95/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=tech-psycho95&show_icons=true&theme=tokyonight" width="420"/>
-  </a>
-  <a href="https://github.com/tech-psycho95/convoychat">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tech-psycho95&theme=dark&hide_border=true" width="420"/>
-  </a>
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tech-psycho95&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=FF6B9D&text_color=c9d1d9&icon_color=C77DFF" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-psycho95&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B9D&text_color=c9d1d9"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tech-psycho95&theme=radical&hide_border=true&background=0d1117&stroke=C77DFF&ring=FF6B9D&fire=FF6B9D&currStreakLabel=C77DFF" alt="GitHub Streak" /> </div>
 
 
 ---
