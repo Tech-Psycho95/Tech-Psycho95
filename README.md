@@ -40,7 +40,7 @@
 ---
 
 ### 🏆 **Trophy Rack:**
-![Trophies](https://github-profile-trophy.vercel.app/?username=tech-psycho95&theme=dark_lover&column=3&margin-w=15&margin-h=15&no-bg=true&)
+![Trophies](https://github-profile-trophy.vercel.app/?username=tech-psycho95&theme=dark_lover&row3&margin-w=10&margin-h=20&no-bg=true&)
 
 ---
 
