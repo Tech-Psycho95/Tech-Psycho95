@@ -47,10 +47,12 @@
 ---
 
 ## **Stats Dashboard**
-<div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tech-psycho95&show_icons=true&theme=tokyonight&hide_border=true" /> </div>
-<div align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tech-psycho95&theme=dark&hide_border=true" />
-</div>
+<a href="https://github.com/tech-psycho95/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tech-psycho95" />
+</a>
+<a href="https://github.com/tech-psycho95/convoychat">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tech-psycho95&theme=dark&hide_border=true" />
+</a>
 
 <div align="center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-psycho95&layout=compact&theme=radical" />
