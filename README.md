@@ -40,17 +40,17 @@
 ---
 
 ### 🏆 **Trophy Rack:**
-<p align="center">
+<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=tech-psycho95&theme=dark_lover&row3&margin-w=10&margin-h=20&no-bg=true" />
-   </p>
+</div>
 
 ---
 
 ## **Stats Dashboard**
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tech-psycho95&show_icons=true&theme=tokyonight" />
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=tech-psycho95&theme=dark" />
-</p>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tech-psycho95&show_icons=true&theme=tokyonight" />
+	<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=tech-psycho95&theme=dark" />
+</div>
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-psycho95&layout=compact&theme=radical" />
 </p>
