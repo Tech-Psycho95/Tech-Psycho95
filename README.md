@@ -47,9 +47,9 @@
 ---
 
 ## **My Stats Dashboard:**
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tech-psycho95&show_icons=true&theme=tokyonight)](https://github.com/tech-psycho95/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tech-psycho95&layout=compact&theme=tokyonight)](https://github.com/tech-psycho95/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tech-psycho95&theme=dark&hide_border=true)](https://github.com/tech-psycho95/convoychat)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tech-psycho95&show_icons=true&theme=tokyonight)](https://github.com/Tech-Psycho95/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tech-psycho95&layout=compact&theme=tokyonight)](https://github.com/Tech-Psycho95/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tech-psycho95&theme=dark&hide_border=true)](https://github.com/Tech-Psycho95/convoychat)
 
 
 
