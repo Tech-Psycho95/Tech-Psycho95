@@ -40,7 +40,7 @@
 ---
 
 ### 🏆 **Trophy Rack:**
-![Trophies](https://github-profile-trophy.vercel.app/?username=Tech-Psycho95&theme=onedark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=tech-psycho95&theme=dark_lover&column=3&margin-w=15&margin-h=15&no-bg=true&)
 
 ---
 
@@ -50,7 +50,7 @@
 </p>
 <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-psycho95&layout=compact&theme=radical" width="400" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tech-Psycho95&theme=dark" width="410" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tech-psycho95&theme=dark" width="410" />
 </p>
 
 ---
