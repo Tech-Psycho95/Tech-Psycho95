@@ -31,7 +31,7 @@
 [![LinkedIn](https://img.shields.io/badge/Linked-in-blue?labelColor=black&color=blue)](https://linkedin.com/in/shivam-singh-a879602ba)
 
 
-## 🧠 **Competitive Learninig Platform:**
+## 🧠 **Competitive Profiles:**
 [![CodeChef](https://img.shields.io/badge/CodeChef-white?style=flat&logo=CodeChef&logoColor=brown)](https://www.codechef.com/users/omaratsu_53)
 [![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/tech-psycho95)
 ![Exercism](https://img.shields.io/badge/Exercism-black?logo=Exercism&labelColor=white)
