@@ -46,7 +46,7 @@
 
 ## **Stats Dashboard**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tech-psycho95&show_icons=true&theme=dark" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tech-psycho95&show_icons=true&theme=dark" style=margin-bottom: 8px;" />
 </p>
 <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-psycho95&layout=compact&theme=radical" width="400" />
