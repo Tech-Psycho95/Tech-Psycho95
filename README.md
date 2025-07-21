@@ -33,7 +33,10 @@
 ## 🧠 **Competitive Profiles:**
 [![CodeChef](https://img.shields.io/badge/CodeChef-white?style=flat&logo=CodeChef&logoColor=brown)](https://www.codechef.com/users/omaratsu_53)
 [![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/tech-psycho95)
-![Exercism](https://img.shields.io/badge/Exercism-black?logo=Exercism&labelColor=white)
+
+## **Learning Profiles:**
+![Exercism](https://img.shields.io/badge/Exercism-white?style=for-the-badge&logo=Exercism&labelColor=black&color=orange)
+[![Codecademy](https://img.shields.io/badge/Codecademy-white?style=for-the-badge&logo=Codecademy&labelColor=black&color=white)](https://www.codecademy.com/profiles/code0171785705)
 
 
 ---
