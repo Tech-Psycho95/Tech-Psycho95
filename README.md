@@ -23,8 +23,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000?logo=Vercel)
 ![Netlify](https://img.shields.io/badge/Netlify-orange?logo=Netlify&labelColor=black)
 
-
-
+------
 
 ## 📫 **Online Profiles:**
 [![GitHub](https://img.shields.io/badge/GitHub-profile?style=flat&logo=GitHub&logoColor=black&labelColor=white&color=black)](https://github.com/Tech-Psycho95)
@@ -40,9 +39,7 @@
 ---
 
 ### 🏆 **Trophy Rack:**
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tech-psycho95&theme=dark_lover&row3&margin-w=10&margin-h=20&no-bg=true" />
-</div>
+![Trophies](https://github-profile-trophy.vercel.app/?username=tech-psycho95&theme=dark_lover&row3&margin-w=10&margin-h=20&no-bg=true)
 
 ---
 
