@@ -3,13 +3,17 @@
 💡 I’m a beginner web developer exploring the world of **frontend design, static and dynamic websites.**
    My interest also lies in **ethical hacking** and **game development.**
 
+##
+
 ### **🌱 Learning Goals:**
 - Building clean and responsive layouts
 - Adding cool animations with CSS & JavaScript
 - Understanding Git & GitHub workflows more in depth
 - To build good games using C++ and game engines
 
-## **💻 What I’ve Built So Far:**
+##
+
+### **💻 What I’ve Built So Far:**
 - 📺 Netflix UI Clone 
 - 🖼 Basic HTML blog page on INDIA
 
@@ -37,7 +41,7 @@
 
 ## **Learning Profiles:**
 ![Exercism](https://img.shields.io/badge/Exercism-white?style=for-the-badge&logo=Exercism&labelColor=black&color=orange)
-[![Codecademy](https://img.shields.io/badge/Codecademy-white?style=for-the-badge&logo=Codecademy&labelColor=black&color=white)](https://www.codecademy.com/profiles/code0171785705)
+![Codecademy](https://img.shields.io/badge/Codecademy-white?style=for-the-badge&logo=Codecademy&labelColor=black&color=white)
 
 
 ---
@@ -56,17 +60,13 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tech-psycho95&theme=dark&hide_border=true&card_width=500" />
 </div>
 
+---
 
+### 😎 **ENJOY**
 
-
-
-
+![snake gif](https://raw.githubusercontent.com/Tech-Psycho95/Tech-Psycho95/output/github-snake.svg)
 
 ---
 
-##
+###
 ✨ I'm passionate about learning, experimenting, and bringing ideas to life—one line of code at a time.
-
----
-
-  ![snake gif](https://raw.githubusercontent.com/Tech-Psycho95/Tech-Psycho95/output/github-snake.svg)
