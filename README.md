@@ -1,7 +1,6 @@
 ## 👋 Hello, **I'm Shivam!**
 
-💡 I’m a beginner web developer exploring the world of **frontend design, static and dynamic websites.**
-   My interest also lies in **ethical hacking** and **game development.**
+💡 I’m a beginner web developer exploring the world of **frontend design, static and dynamic websites** as well as **ethical hacking** and **game development.**
 
 ##
 
