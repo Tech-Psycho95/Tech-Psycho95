@@ -29,17 +29,21 @@
 
 ------
 
-## 📫 **Online Profiles:**
+<div align="center">
+<h1> 🖼 My Profiles:</h1>
+</div>
+
+## 📫 **Community:**
 [![GitHub](https://img.shields.io/badge/GitHub-profile?style=flat&logo=GitHub&logoColor=black&labelColor=white&color=black)](https://github.com/Tech-Psycho95)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-blue?labelColor=black&color=blue)](https://linkedin.com/in/shivam-singh-a879602ba)
 [![DEV](https://img.shields.io/badge/dev.to-white?logo=dev.to&labelColor=black)](https://dev.to/shastraa_430)
 
 
-## 🧠 **Competitive Profiles:**
+## 🧠 **Competitive:**
 [![CodeChef](https://img.shields.io/badge/CodeChef-white?style=flat&logo=CodeChef&logoColor=brown)](https://www.codechef.com/users/omaratsu_53)
 [![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/tech-psycho95)
 
-## **Learning Profiles:**
+## **Learning:**
 ![Exercism](https://img.shields.io/badge/Exercism-white?style=for-the-badge&logo=Exercism&labelColor=black&color=orange)
 ![Codecademy](https://img.shields.io/badge/Codecademy-white?style=for-the-badge&logo=Codecademy&labelColor=black&color=white)
 
