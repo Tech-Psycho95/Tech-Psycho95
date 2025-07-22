@@ -60,10 +60,10 @@
 ## **My Stats Dashboard:**
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=tech-psycho95&show_icons=true&theme=tokyonight&include_all_commits=true" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-psycho95&layout=compact&theme=tokyonight&card_width=280" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-psycho95&layout=compact&theme=tokyonight&card_width=300&hide=typescript,javascript" />
 </div>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tech-psycho95&theme=dark&hide_border=true&card_width=500" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tech-psycho95&theme=dark&hide_border=true&card_width=400" />
 </div>
 
 ---
