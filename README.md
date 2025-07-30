@@ -4,7 +4,8 @@
 
 ##
 
-### **🌱 Learning Goals:**
+### **🌱 Learning Goals:** <img align="right" alt="matrix" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZzNzkxcTBuazYxaW0xejY2eGhubHBrdGk3MmdoemtrNHdyZG16MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif" >
+
 - Building clean and responsive layouts
 - Adding cool animations with CSS & JavaScript
 - Understanding Git & GitHub workflows more in depth
@@ -12,7 +13,7 @@
 
 ##
 
-### **💻 What I’ve Built So Far:**
+### 💻 **What I’ve Built So Far:**
 - 📺 Netflix UI Clone 
 - 🖼 Basic HTML blog page on INDIA
 
