@@ -9,8 +9,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=6000&pause=300&color=FF6B9D&center=false&width=500&height=60&lines=Building+clean+and+responsive+layouts)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=5400&pause=400&color=FF6B9D&center=false&width=500&height=60&lines=Adding+cool+animations+with+CSS+&+JavaScript)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=5500&pause=700&color=FF6B9D&center=false&width=450&height=60&lines=Understanding+Git+%7C+GitHub+workflows+in+more+depth)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=5500&pause=700&color=FF6B9D&center=false&width=450&height=60&lines=To+build+good+games+using+CPP+and+game+engines)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=5500&pause=700&color=FF6B9D&center=false&width=300&height=60&lines=Understanding+Git+%7C+GitHub+workflows+in+more+depth)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=5500&pause=700&color=FF6B9D&center=false&width=3000&height=60&lines=To+build+good+games+using+CPP+and+game+engines)
 
 ##
 
