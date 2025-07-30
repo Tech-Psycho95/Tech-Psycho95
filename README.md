@@ -1,6 +1,6 @@
 ## 👋 Hello, **I'm Shivam!**
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=500&color=FF6B9D&center=true&vCenter=tru&width=600&height=60&lines=Beginner+Web+Developer+%7C+Exploring+Frontend+Design;Ethical+Hacking+%7C+Game+Development)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=5500&pause=700&color=FF6B9D&center=true&vCenter=true&width=600&height=60&lines=Beginner+Web+Developer+%7C+Exploring+Frontend+Design;Ethical+Hacking+%7C+Game+Development)
 
 
 ##
