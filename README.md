@@ -45,7 +45,7 @@
 
 ##
 
-## **Learning:**
+## 📚 **Learning:**
 ![Exercism](https://img.shields.io/badge/Exercism-white?style=for-the-badge&logo=Exercism&labelColor=black&color=orange)
 ![Codecademy](https://img.shields.io/badge/Codecademy-white?style=for-the-badge&logo=Codecademy&labelColor=black&color=white)
 
