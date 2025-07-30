@@ -5,12 +5,14 @@
 
 ##
 
-### **🌱 Learning Goals:** <img align="right" alt="matrix" width="360" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZzNzkxcTBuazYxaW0xejY2eGhubHBrdGk3MmdoemtrNHdyZG16MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif" >
+### **🌱 Learning Goals:**
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=6000&pause=300&color=FF6B9D&center=false&width=500&height=50&lines=Building+clean+and+responsive+layouts)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=5400&pause=400&color=FF6B9D&center=false&width=600&height=50&lines=Adding+cool+animations+with+CSS+&+JavaScript)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=5500&pause=700&color=FF6B9D&center=false&width=600&height=50&lines=Understanding+Git+%7C+GitHub+workflows+in+more+depth)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=5500&pause=700&color=FF6B9D&center=false&width=600&height=50&lines=To+build+good+games+using+CPP+and+game+engines)
+
+<img align="center" alt="matrix" width="360" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZzNzkxcTBuazYxaW0xejY2eGhubHBrdGk3MmdoemtrNHdyZG16MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif" >
 
 ##
 
