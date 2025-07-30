@@ -1,6 +1,7 @@
 ## 👋 Hello, **I'm Shivam!**
 
-💡 I’m a beginner web developer exploring the world of **frontend design, static and dynamic websites** as well as **ethical hacking** and **game development.**
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=500&color=FF6B9D&center=true&vCenter=tru&width=600&height=60&lines=Beginner+Web+Developer+%7C+Exploring+Frontend+Design;Ethical+Hacking+%7C+Game+Development)
+
 
 ##
 
