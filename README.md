@@ -1,4 +1,4 @@
-## <img align="center" alt="hi" width="136" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" /> <p>Hello, I'm Shivam!</p>
+## <img align="center" alt="hi" width="136" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" /> ![Hello SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=5500&repeat=false&color=6aa84f&center=true&vCenter=true&width=600&height=60&font=Bitcount+Prop+Single&lines=Hello,+I'm+Shivam!)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=5500&pause=700&color=6aa84f&center=true&vCenter=true&width=600&height=60&font=Bitcount+Prop+Single&lines=Beginner+Web+Developer+%7C+Exploring+Frontend+Design;Exploring+vast+world+of+Cybersecurity;Passionate+towards+Game+Development)
 
