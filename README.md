@@ -23,7 +23,9 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHlhZmE1ZDlod2R0bndseTBha
 
 ##
 
-### 💻 **What I’ve Built So Far:**
+<div align="center">
+    <h1>💻 What I’ve Built So Far:</h1>
+</div>
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=5000&pause=400&color=eeeeee&center=true&vCenter=true&width=500&height=60&lines=📺+Netflix+UI+Clone;🎨+Basic+HTML+blog+page+on+INDIA" />
