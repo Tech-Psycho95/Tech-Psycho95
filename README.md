@@ -26,7 +26,9 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHlhZmE1ZDlod2R0bndseTBha
 ### 💻 **What I’ve Built So Far:**
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=5000&pause=400&color=eeeeee&center=true&vCenter=true&width=600&height=60&lines=📺+Netflix+UI+Clone;🎨+Basic+HTML+blog+page+on+INDIA)
-<p align="right"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG50a2VhbGt2MWJtNzcxa3NpbWJkc2dzNWhvanV0Z2Z5cmt3dTYzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkNBtlymM6zX4DndrU/giphy.gif" width="360" /> </p>
+
+<p align="right"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG50a2VhbGt2MWJtNzcxa3NpbWJkc2dzNWhvanV0Z2Z5cmt3dTYzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkNBtlymM6zX4DndrU/giphy.gif" width="360" />
+</p>
 
 ------
 
