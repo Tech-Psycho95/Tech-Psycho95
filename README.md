@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="hi" width="136" />
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=6000&repeat=false&color=6aa84f&width=600&height=60&font=Bitcount+Prop+Single&lines=Hello,+I'm+Shivam!" />
 <img 
