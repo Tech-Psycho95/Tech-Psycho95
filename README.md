@@ -8,7 +8,7 @@
 
 ##
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=5500&pause=700&color=6aa84f&center=true&vCenter=true&width=600&height=60&font=Bitcount+Prop+Single&lines=Beginner+Web+Developer+%7C+Exploring+Frontend+Design;Exploring+vast+world+of+Cybersecurity;CTF+Lover;Passionate+towards+Game+Development)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=5500&pause=700&color=6aa84f&center=true&vCenter=true&width=600&height=60&font=Bitcount+Prop+Single&lines=Beginner+Web+Developer+%7C+Exploring+Frontend+Design;Exploring+vast+world+of+Cybersecurity;CTF+Challenger;Passionate+towards+Game+Development)
 
 ##
 
