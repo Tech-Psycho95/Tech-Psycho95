@@ -31,10 +31,9 @@
 </div>
 <img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG50a2VhbGt2MWJtNzcxa3NpbWJkc2dzNWhvanV0Z2Z5cmt3dTYzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkNBtlymM6zX4DndrU/giphy.gif" width="320" alt="sakuna" />
 
-
 ------
 
-## **🔧 Tools & Skills:**
+### **🔧 Tools & Skills:**
 ![HTLM5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&labelColor=white)
 ![CSS](https://img.shields.io/badge/CSS-white?style=plastic&logo=CSS&labelColor=%23663399)
 ![Python](https://img.shields.io/badge/Python-white?style=plastic&logo=python&labelColor=black)
@@ -48,20 +47,20 @@
 <h1> 🖼 My Profiles:</h1>
 </div>
 
-## 📫 **Community:**
+### 📫 **Community:**
 [![GitHub](https://img.shields.io/badge/GitHub-profile?style=flat&logo=GitHub&logoColor=black&labelColor=white&color=black)](https://github.com/Tech-Psycho95)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-blue?labelColor=black&color=blue)](https://linkedin.com/in/shivam-singh-a879602ba)
 [![DEV](https://img.shields.io/badge/dev.to-white?logo=dev.to&labelColor=black)](https://dev.to/shastraa_430)
 
 ##
 
-## 🧠 **Competitive:**
+### 🧠 **Competitive:**
 [![CodeChef](https://img.shields.io/badge/CodeChef-white?style=flat&logo=CodeChef&logoColor=brown)](https://www.codechef.com/users/omaratsu_53)
 [![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/tech-psycho95)
 
 ##
 
-## 📚 **Learning:**
+### 📚 **Learning:**
 ![Exercism](https://img.shields.io/badge/Exercism-white?style=for-the-badge&logo=Exercism&labelColor=black&color=orange)
 ![Codecademy](https://img.shields.io/badge/Codecademy-white?style=for-the-badge&logo=Codecademy&labelColor=black&color=white)
 
