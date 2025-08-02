@@ -78,8 +78,8 @@
 
 ## **My Stats Dashboard:**
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=tech-psycho95&show_icons=true&theme=tokyonight&include_all_commits=true" height="150" alt="readme stats"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-psycho95&layout=compact&theme=tokyonight&card_width=300&hide=typescript,javascript" />
+   <img src="https://github-stats-alpha.vercel.app/api?username=Tech-Psycho95&show_icons=true&cc=0f0f0f&tc=00ffe0&ic=ff00ff&bc=00ffe0&include_all_commits=true" height="150" alt="readme stats"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Psycho95&layout=compact&theme=tokyonight&card_width=300&hide=typescript,javascript" />
 </div>
 
 
