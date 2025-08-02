@@ -2,9 +2,7 @@
 </div>
 
 <div style="display: flex; align-items: center; justify-content: center;">
-  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="hi" width="100" />
-  
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=6000&repeat=false&color=6aa84f&width=600&height=60&font=Bitcount+Prop+Single&lines=Hello,+I'm+Shivam!" alt="typing text" />
   
 
@@ -16,10 +14,10 @@
 
 ### **🌱 Learning Goals:**
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=6000&pause=300&color=FF6B9D&center=false&repeat=false&width=500&height=50&lines=Building+clean+and+responsive+layouts)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=5400&color=FF6B9D&center=false&repeat=false&width=600&height=50&lines=Adding+cool+animations+with+CSS+&+JavaScript)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=5500&pause=700&color=FF6B9D&center=false&repeat=false&width=600&height=50&lines=Understanding+Git+%7C+GitHub+workflows+in+more+depth)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=5500&pause=700&color=FF6B9D&center=false&repeat=false&width=600&height=50&lines=To+build+good+games+using+CPP+and+game+engines)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=6000&pause=300&color=FF6B9D&center=false&repeat=false&width=500&height=50&lines=Building+clean+and+responsive+layouts)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=5400&color=FF6B9D&center=false&repeat=false&width=600&height=50&lines=Adding+cool+animations+with+CSS+&+JavaScript)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=5500&pause=700&color=FF6B9D&center=false&repeat=false&width=600&height=50&lines=Understanding+Git+%7C+GitHub+workflows+in+more+depth)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=5500&pause=700&color=FF6B9D&center=false&repeat=false&width=600&height=50&lines=To+build+good+games+using+CPP+and+game+engines)
 
 ##
 
