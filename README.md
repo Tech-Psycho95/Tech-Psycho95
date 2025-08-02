@@ -1,9 +1,9 @@
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHlhZmE1ZDlod2R0bndseTBhaWQwd2I2Y2hjam1hNGx2dHEzeGV1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lv2VhwHrt6ljhvZ6LF/giphy.gif" width="200" alt="cute gif">
-</div>
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="hi" width="100" />
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=6000&repeat=false&color=6aa84f&width=600&height=60&font=Bitcount+Prop+Single&lines=Hello,+I'm+Shivam!" alt="typing text" />
+</div>
   
 
 ##
@@ -31,7 +31,7 @@
 
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG50a2VhbGt2MWJtNzcxa3NpbWJkc2dzNWhvanV0Z2Z5cmt3dTYzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkNBtlymM6zX4DndrU/giphy.gif" width="300" />
 
-<div align="left">
+<div style="display: flex; align-items: center; justify-content: center;">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=5000&pause=400&color=eeeeee&center=true&vCenter=true&width=500&height=60&lines=📺+Netflix+UI+Clone;🎨+Basic+HTML+blog+page+on+INDIA" />
 </div>
 
