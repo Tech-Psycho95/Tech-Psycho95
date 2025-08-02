@@ -34,7 +34,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=5000&pause=400&color=eeeeee&center=true&vCenter=true&width=500&height=80&lines=📺+Netflix+UI+Clone;🎨+Basic+HTML+blog+page+on+INDIA" />
 </div>
 
-##
 
 ## **🔧 Tools & Skills:**
 ![HTLM5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&labelColor=white)
