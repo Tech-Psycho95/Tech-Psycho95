@@ -36,13 +36,7 @@
 ------
 
 ### **🔧 Tools & Skills:**
-![HTLM5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&labelColor=white)
-![CSS](https://img.shields.io/badge/CSS-white?style=plastic&logo=CSS&labelColor=%23663399)
-![Python](https://img.shields.io/badge/Python-white?style=plastic&logo=python&labelColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&labelColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000?logo=Vercel)
-![Netlify](https://img.shields.io/badge/Netlify-orange?logo=Netlify&labelColor=black)
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,netlify,git&theme=dark)](https://skillicons.dev)
 ------
 
 <div align="center">
