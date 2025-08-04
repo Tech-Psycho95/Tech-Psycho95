@@ -87,3 +87,7 @@
 ###
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=5500&pause=700&color=FF6B9D&center=true&vCenter=true&width=600&height=60&lines=✨+Passionate+about+learning+and+experimenting;🚀+Bringing+ideas+to+life+one-line-of-code+at+a+time)
+---
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Tech-Psycho95.Tech-Psycho95&left_color=red&left_text=%f0%9f%91%8b" />
+</div>
