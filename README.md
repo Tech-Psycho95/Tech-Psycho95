@@ -36,7 +36,8 @@
 ------
 
 ### **🔧 Tools & Skills:**
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,netlify,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,netlify,git,vscode,github&theme=dark)](https://skillicons.dev)
+
 ------
 
 <div align="center">
