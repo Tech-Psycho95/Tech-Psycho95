@@ -19,7 +19,7 @@
   <img align="left" src="https://www.codedex.io/api/petStatus?user=PALT"/>
 </div>
 
-<div align="right">
+<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=6000&pause=300&color=FF6B9D&center=false&repeat=false&width=500&height=50&lines=Building+clean+and+responsive+layouts"/>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=5400&color=FF6B9D&center=false&repeat=false&width=600&height=50&lines=Adding+cool+animations+with+CSS+&+JavaScript"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=5000&pause=300&color=FF6B9D&multiline=true&repeat=false&width=540&lines=Understanding+Git+%26+Github+Workflow+in+depth"/>
