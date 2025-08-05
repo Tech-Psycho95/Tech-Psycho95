@@ -16,7 +16,7 @@
 
 <div align="right">
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5d2f751b-0791-4cb6-a646-8cfecd441a73/dftidq9-225b64ad-03c8-4565-861d-ae93119ca12c.png/v1/fill/w_1095,h_730,q_70,strp/anime_sano_city_backdrop_5_by_kuramochikomix_dftidq9-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODk2IiwicGF0aCI6IlwvZlwvNWQyZjc1MWItMDc5MS00Y2I2LWE2NDYtOGNmZWNkNDQxYTczXC9kZnRpZHE5LTIyNWI2NGFkLTAzYzgtNDU2NS04NjFkLWFlOTMxMTljYTEyYy5wbmciLCJ3aWR0aCI6Ijw9MTM0NCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.DI5hwi0Uec8HzpAXTyvKQ6UjJXciMFWUyHUfdC-zlEM" width="100%"/>
-  <img align="left" src="https://www.codedex.io/api/petStatus?user=PALT"
+  <img align="left" src="https://www.codedex.io/api/petStatus?user=PALT"/>
 </div>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=6000&pause=300&color=FF6B9D&center=false&repeat=false&width=500&height=50&lines=Building+clean+and+responsive+layouts)
