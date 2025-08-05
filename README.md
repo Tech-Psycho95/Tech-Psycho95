@@ -14,9 +14,7 @@
 
 ### **🌱 Learning Goals:**
 
-<img align="right" src="https://www.codedex.io/api/petStatus?user=PALT" widhth="160"/>
-
-###
+<img align="center" src="https://www.codedex.io/api/petStatus?user=PALT"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=6000&pause=300&color=FF6B9D&center=false&repeat=false&width=500&height=50&lines=Building+clean+and+responsive+layouts)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=5400&color=FF6B9D&center=false&repeat=false&width=600&height=50&lines=Adding+cool+animations+with+CSS+&+JavaScript)
