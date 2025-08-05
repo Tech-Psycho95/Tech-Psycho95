@@ -14,11 +14,11 @@
 
 ### **🌱 Learning Goals:**
 
+<img align="right" src="https://www.codedex.io/api/petStatus?user=PALT" widhth="160"/>
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=6000&pause=300&color=FF6B9D&center=false&repeat=false&width=500&height=50&lines=Building+clean+and+responsive+layouts)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=5400&color=FF6B9D&center=false&repeat=false&width=600&height=50&lines=Adding+cool+animations+with+CSS+&+JavaScript)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=5000&pause=300&color=FF6B9D&multiline=true&repeat=false&width=540&lines=Understanding+Git+%26+Github+Workflow+in+depth)](https://git.io/typing-svg)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=5500&pause=700&color=FF6B9D&center=false&repeat=false&width=600&height=50&lines=To+build+good+games+using+CPP+and+game+engines)
-<img align="right" src="https://www.codedex.io/api/petStatus?user=PALT" widhth="160"/>
 
 ##
 
