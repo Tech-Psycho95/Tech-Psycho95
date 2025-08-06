@@ -42,6 +42,9 @@
 
 ### **🔧 Tools & Skills:**
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,netlify,git,vscode,github&theme=dark)](https://skillicons.dev)
+<div align="center">
+<img src="https://www.codedex.io/images/codedex-bot-logo-compressed.webp" width="140"/>
+</div>
 
 ------
 
