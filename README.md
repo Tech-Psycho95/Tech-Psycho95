@@ -14,7 +14,9 @@
 
 ### **🌱 Learning Goals:**
 <div align="right">
+  <a href="https://codolio.com/profile/Shivam%20Singh" target="_blank" rel="noopener noreferrer">
 <img align="right" src="https://codolio.com/codolio_assets/gif-owl-transparent.GIF" width="160" />
+  </a>
 </div>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=6000&pause=300&color=FF6B9D&center=false&repeat=false&width=500&height=50&lines=Building+clean+and+responsive+layouts)
@@ -36,8 +38,9 @@
 <div align="center">
 <h1>💻 What I’ve Built So Far:</h1>
 </div>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=5000&pause=400&color=eeeeee&center=true&vCenter=true&width=800&color=48d647&lines=📺+Netflix+UI+Clone;🎨+Basic+HTML+blog+page+on+INDIA;And+more+coming+soon+......" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=5000&pause=400&color=eeeeee&center=true&vCenter=true&width=800&color=48d647&lines=📺+Netflix+UI+Clone;🎨+Basic+HTML+blog+page+on+INDIA;And+more+coming+soon......" />
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG50a2VhbGt2MWJtNzcxa3NpbWJkc2dzNWhvanV0Z2Z5cmt3dTYzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkNBtlymM6zX4DndrU/giphy.gif" width="320" alt="sakuna" />
 </p>
 
