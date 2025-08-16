@@ -37,7 +37,10 @@
 
 ---
 
-![ANIME IMG](https://tinyurl.com/ya4rrr3s)<div align="left">
+<div>
+<img src="https://tinyurl.com/ya4rrr3s" />
+</div>
+<div align="left">
   <a href="https://codedex.io/@PALT" target="_blank" />
   <img src="https://www.codedex.io/images/code-nights/evolved-happy-duck.gif" width="200"/>
   </a>
@@ -50,14 +53,20 @@
 <h2>Tools & Skills:<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJuZ25od3U2cDJvOGltbXFicHltbzc4MWk0bXZkdzJiZzkzbHNiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rhfVcQF4SXYVgvI9Ut/giphy.gif" width="120"/></h2>
 </div>
 
-<p align="left">
+<div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,html,css,python,netlify,vscode" />
   </a>
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanl0cThmdHF3dW8yd2Z5aDF0MzhwNDZlOTFxeXZxNmt3azR3cnVuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6U47YlEnJQNeb05Csh/giphy.gif" width="320"/>
-</p>
+</div>
+<div align="right">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanl0cThmdHF3dW8yd2Z5aDF0MzhwNDZlOTFxeXZxNmt3azR3cnVuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6U47YlEnJQNeb05Csh/giphy.gif" width="320"/>
+</div>
 
-##
+---
+
+
+
+
 
 
 
