@@ -1,7 +1,7 @@
 <div style="display: center; align-items: center; justify-content: center">
 <img src="https://i.giphy.com/hvRJCLFzcasrR4ia7z.webp" width="120" />
 <a href="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&pause=1000&color=00F758&repeat=false&width=435&height=30&lines=Hi%2C+I'm+Shivam" alt="Typing SVG" /></a>
-  <img src="https://shorturl.at/njILo" width="240"/>
+  <img src="https://shorturl.at/njILo" width="200"/>
 </div>
 
 ---
@@ -37,20 +37,17 @@
 
 ---
 
-<p align="center">
-  <img src="https://tinyurl.com/ya4rrr3s" alt="anime img" width="600"/>
-</p>
-<div align="left">
+![ANIME IMG](https://tinyurl.com/ya4rrr3s)<div align="left">
+  <a href="https://codedex.io/@PALT" target="_blank" />
   <img src="https://www.codedex.io/images/code-nights/evolved-happy-duck.gif" width="200"/>
+  </a>
   <img align="right" src="https://tinyurl.com/2sukja67" />
 </div>
 
-
-
-##
+---
 
 <div align="center">
-<h2>Tools & Skills:<img align="center" src="https://www.codedex.io/images/character_gifs/tekmLsi.gif" width="80"/></h2>
+<h2>Tools & Skills:<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJuZ25od3U2cDJvOGltbXFicHltbzc4MWk0bXZkdzJiZzkzbHNiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rhfVcQF4SXYVgvI9Ut/giphy.gif" width="120"/></h2>
 </div>
 
 <p align="left">
@@ -59,6 +56,9 @@
   </a>
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanl0cThmdHF3dW8yd2Z5aDF0MzhwNDZlOTFxeXZxNmt3azR3cnVuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6U47YlEnJQNeb05Csh/giphy.gif" width="320"/>
 </p>
+
+##
+
 
 
 
