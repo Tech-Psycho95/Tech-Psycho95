@@ -37,12 +37,15 @@
 
 ---
 
-![anime img](https://tinyurl.com/ya4rrr3s) 
-
+<p align="center">
+  <img src="https://tinyurl.com/ya4rrr3s" alt="anime img" width="600"/>
+</p>
 <div align="left">
-  <img src="https://www.codedex.io/images/code-nights/evolved-happy-duck.gif" width="320"/>
-  <img align="right" src="https://tinyurl.com/2sukja67"/>
+  <img src="https://www.codedex.io/images/code-nights/evolved-happy-duck.gif" width="200"/>
+  <img align="right" src="https://tinyurl.com/2sukja67" />
 </div>
+
+
 
 ##
 
