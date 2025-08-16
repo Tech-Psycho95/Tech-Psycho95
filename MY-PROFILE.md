@@ -42,7 +42,7 @@
 </div>
 <div align="left">
   <a href="https://codedex.io/@PALT" target="_blank" />
-  <img src="https://www.codedex.io/images/code-nights/evolved-happy-duck.gif" width="200"/>
+  <img src="https://tinyurl.com/2s39anjn" width="200"/>
   </a>
   <img align="right" src="https://tinyurl.com/2sukja67" />
 </div>
@@ -50,7 +50,8 @@
 ---
 
 <div align="center">
-<h2>🧰 Tools & Skills:<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJuZ25od3U2cDJvOGltbXFicHltbzc4MWk0bXZkdzJiZzkzbHNiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rhfVcQF4SXYVgvI9Ut/giphy.gif" width="120"/></h2>
+<h2>Tools & Skills:
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJuZ25od3U2cDJvOGltbXFicHltbzc4MWk0bXZkdzJiZzkzbHNiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rhfVcQF4SXYVgvI9Ut/giphy.gif" width="120"/></h2>
 </div>
 
 <div align="left">
@@ -66,19 +67,23 @@
 
 <h1 align="center">My Profiles:</h1>
 
-<p>Competitive:</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=0.15rem&duration=4&pause=32&random=true&width=176&lines=Competitive%3A" alt="Typing SVG" /></a>
 
-<div>
-<a href="https://codolio.com/profile/Shivam%20Singh">
-<img align="right" src="https://codolio.com/codolio_assets/gif-owl-transparent.GIF" width="144" />
-</a>
 <a href="https://atcoder.jp/users/teraki"/>
-<img align="right" src="https://img.atcoder.jp/assets/logo.png" width="160" />
+<img align="right" src="https://img.atcoder.jp/assets/logo.png" width="72" />
 </a>
-</div>
 
-[![Static Badge](https://img.shields.io/badge/Leetcode-white?style=plastic&logo=leetcode&logoColor=white&labelColor=orange&color=black)](https://leetcode.com/u/tech-psycho95/)
-[![Static Badge](https://img.shields.io/badge/CodeChef-white?style=plastic&logo=CodeChef&logoColor=white&labelColor=orange&color=black)](https://www.codechef.com/users/omaratsu_53)
+[![Static Badge](https://skills.syvixor.com/api/icons?i=leetcode)](https://leetcode.com/u/tech-psycho95/)
+[![Static Badge](https://skills.syvixor.com/api/icons?i=codechef)](https://www.codechef.com/users/omaratsu_53)
+
+##
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=0.15rem&duration=4&pause=32&random=true&width=96&lines=Social%3A" alt="Typing SVG" /></a>
+
+[![My Profile](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shivam-singh-a879602ba/)
+[![My Profile](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ergon_999/)
+
+---
 
 
 
