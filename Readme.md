@@ -50,7 +50,7 @@
 ---
 
 <div align="center">
-<h2>Tools & Skills:<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJuZ25od3U2cDJvOGltbXFicHltbzc4MWk0bXZkdzJiZzkzbHNiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rhfVcQF4SXYVgvI9Ut/giphy.gif" width="120"/></h2>
+<h2>🧰 Tools & Skills:<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJuZ25od3U2cDJvOGltbXFicHltbzc4MWk0bXZkdzJiZzkzbHNiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rhfVcQF4SXYVgvI9Ut/giphy.gif" width="120"/></h2>
 </div>
 
 <div align="left">
@@ -63,6 +63,28 @@
 </div>
 
 ---
+
+<h1 align="center">My Profiles:</h1>
+
+<p>Competitive:</p>
+
+<div>
+<a href="https://codolio.com/profile/Shivam%20Singh">
+<img align="right" src="https://codolio.com/codolio_assets/gif-owl-transparent.GIF" width="144" />
+</a>
+<a href="https://atcoder.jp/users/teraki"/>
+<img align="right" src="https://img.atcoder.jp/assets/logo.png" width="160" />
+</a>
+</div>
+
+[![Static Badge](https://img.shields.io/badge/Leetcode-white?style=plastic&logo=leetcode&logoColor=white&labelColor=orange&color=black)](https://leetcode.com/u/tech-psycho95/)
+[![Static Badge](https://img.shields.io/badge/CodeChef-white?style=plastic&logo=CodeChef&logoColor=white&labelColor=orange&color=black)](https://www.codechef.com/users/omaratsu_53)
+
+
+
+
+
+
 
 
 
