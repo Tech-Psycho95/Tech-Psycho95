@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&duration=3000&pause=200&color=005DF7&center=true&vCenter=true&width=560&lines=%E2%9C%A8+Netflix+U.I+Clone;%F0%9F%93%84+Basic+HTML+Blog+Page+On+India" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&duration=3000&pause=200&color=005DF7&center=true&vCenter=true&width=560&lines=%E2%9C%A8+Netflix+U.I+Clone;%F0%9F%93%84+Basic+HTML+Blog+Page+On+India;🧨+And+more+coming+soon......" alt="Typing SVG" /></a>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXk2MnVwbm1hNnB5ang3Mm5ybG9naDk5NDE5ejUzZW4wc2ZqdGN5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkNBtlymM6zX4DndrU/giphy.gif">
 </div>
 
