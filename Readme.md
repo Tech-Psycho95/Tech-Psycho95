@@ -91,12 +91,12 @@
 </div>
 
   <div align="center">
-<img align="left" src="https://github-stats-alpha.vercel.app/api?username=Tech-Psycho95&cc=000&tc=28c71f&ic=ff9747&bc=ffdb00" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Tech-Psycho95&show_icons=true&theme=ambient_gradient&hide=issues,stars&hide_border=true&text_color=00001f&locale=ja" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tech-Psycho95&show_icons=true&theme=ambient_gradient&hide=issues,stars&hide_border=true&text_color=00001f&locale=ja&card_width=240" />
   </div>
   
   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tech-Psycho95&hide=typescript,javascript&layout=compact&theme=radical" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=Tech-Psycho95&cc=000&tc=28c71f&ic=ff9747&bc=ffdb00" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tech-Psycho95&hide=typescript,javascript&layout=compact&theme=radical&card_width=240" />
   </div>
 
 
