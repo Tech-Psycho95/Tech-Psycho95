@@ -51,13 +51,13 @@
 
 <div align="center">
 <h2>Tools & Skills:
-  <img src="https://tinyurl.com/3kdzj8hc" width="120"/></h2>
+<img src="https://tinyurl.com/3kdzj8hc" width="120"/></h2>
 </div>
 
 <div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,python,netlify,vscode" />
-  </a>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=git,github,html,css,python,netlify,vscode" />
+</a>
 </div>
 <div align="right">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanl0cThmdHF3dW8yd2Z5aDF0MzhwNDZlOTFxeXZxNmt3azR3cnVuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6U47YlEnJQNeb05Csh/giphy.gif" width="320"/>
@@ -90,18 +90,22 @@
 </a>
 </div>
 
-  <div align="center">
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Tech-Psycho95&show_icons=true&theme=ambient_gradient&hide=issues,stars&hide_border=true&text_color=00001f&locale=ja&card_width=240&rank_icon=github" />
-  </div>
+</div>
   
-  <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=Tech-Psycho95&cc=000&tc=28c71f&ic=ff9747&bc=000&" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tech-Psycho95&hide=typescript,javascript&layout=compact&theme=radical&card_width=240" />
-  </div>
+<div align="center">
+<img src="https://github-stats-alpha.vercel.app/api?username=Tech-Psycho95&cc=000&tc=28c71f&ic=ff9747&bc=000&" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tech-Psycho95&hide=typescript,javascript&layout=compact&theme=radical&card_width=240" />
+</div>
 
-  <h2 align="center">Top Repos:</h2>
+<h2 align="center">Top Repos:</h2>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tech-Psycho95&repo=streamflow)](https://github.com/Tech-Psycho95/streamflow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tech-Psycho95&repo=streamflow)](https://github.com/Tech-Psycho95/streamflow)
+
+<div align="right"> 
+<img src="https://i.giphy.com/lGB3DKEWgAbuix9Wp5.webp" />
+</div>
 
 
 
