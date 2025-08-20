@@ -1,6 +1,6 @@
 <div style="display: center; align-items: center; justify-content: center">
 <img src="https://i.giphy.com/hvRJCLFzcasrR4ia7z.webp" width="120" />
-<a href="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&pause=1000&color=00F758&repeat=false&width=435&height=30&lines=Hi%2C+I'm+Shivam" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&duration=3000&pause=150&color=00F758&lines=Hi%2C+I'm+Shivam;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%2C+%E0%A4%AE%E0%A5%88%E0%A4%82+%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%AE+%E0%A4%B9%E0%A5%82%E0%A4%81;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%82%B7%E3%83%B4%E3%82%A1%E3%83%A0%E3%81%A7%E3%81%99;Hallo%2C+ich+bin+Shivam;Salut%2C+je+suis+Shivam;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%A8%D0%B8%D0%B2%D0%B0%D0%BC;%CE%93%CE%B5%CE%B9%CE%B1%2C+%CE%B5%CE%AF%CE%BC%CE%B1%CE%B9+%CE%BF+Shivam;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EC%A0%80%EB%8A%94+%EC%8B%9C%EB%B0%A4%EC%9E%85%EB%8B%88%EB%8B%A4" alt="Typing SVG" /></a>
   <img src="https://shorturl.at/njILo" width="200"/>
 </div>
 
