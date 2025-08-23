@@ -96,7 +96,7 @@
   
 <div align="center">
 <img src="https://github-stats-alpha.vercel.app/api?username=Tech-Psycho95&cc=000&tc=28c71f&ic=ff9747&bc=000&" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tech-Psycho95&hide=typescript,javascript&layout=compact&theme=radical&card_width=240" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tech-Psycho95&hide=typescript,javascript,kotlin&layout=compact&theme=radical&card_width=240" />
 </div>
 
 <h2 align="center">Top Repos:</h2>
