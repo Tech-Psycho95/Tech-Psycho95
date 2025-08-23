@@ -109,6 +109,8 @@
 
 ##
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nabla&size=40&duration=6&pause=16&width=350&height=100&lines=Github+Breakout)](https://git.io/typing-svg)
+
 <div align="center">
 <picture>
   <source
@@ -122,6 +124,16 @@
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
 </div>
+
+##
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Honk&size=40&duration=2&pause=10&height=100&lines=Snake+Contribution+%3A)](https://git.io/typing-svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tech-Psycho95/Tech-Psycho95/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tech-Psycho95/Tech-Psycho95/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Tech-Psycho95/Tech-Psycho95/output/github-snake.svg" />
+</picture>
 
 
 
