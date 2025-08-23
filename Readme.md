@@ -109,7 +109,7 @@
 
 ##
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nabla&size=40&duration=6&pause=16&width=350&height=100&lines=Github+Breakout)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nabla&size=40&duration=6&pause=16&width=350&height=100&lines=Github+Breakout+%3A)](https://git.io/typing-svg)
 
 <div align="center">
 <picture>
