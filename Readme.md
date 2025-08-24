@@ -135,7 +135,13 @@
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Tech-Psycho95/Tech-Psycho95/output/github-snake.svg" />
 </picture>
 
+---
 
+<h2 align="center">Trophy Rack:</h2>
+
+<img src="https://trophygh.kolioaris.xyz/?username=Tech-Psycho95&theme=buddhism"/>
+
+##
 
 
 
