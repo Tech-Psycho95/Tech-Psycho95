@@ -20,7 +20,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Federant&duration=4000&pause=200&color=005DF7&center=true&repeat=false&width=464&lines=To+build+good+games+using+C%2B%2B+%26+game+engines)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Federant&duration=4000&pause=200&color=005DF7&center=true&repeat=false&width=480&lines=Understanding+git+%26+github+workflows+more+in-depth)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Federant&duration=4000&pause=200&color=005DF7&center=true&repeat=false&width=480&lines=Understanding+git+%26+github+more+in-depth)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Federant&duration=4000&pause=200&color=005DF7&center=true&repeat=false&width=560&lines=Build+great+fluency+in+multiple+programming+languages)](https://git.io/typing-svg)
 
