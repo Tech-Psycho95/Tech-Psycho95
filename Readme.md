@@ -75,6 +75,7 @@
 
 [![Static Badge](https://skills.syvixor.com/api/icons?i=leetcode)](https://leetcode.com/u/tech-psycho95/)
 [![Static Badge](https://skills.syvixor.com/api/icons?i=codechef)](https://www.codechef.com/users/omaratsu_53)
+[![Static Badge](https://skills.syvixor.com/api/icons?i=codeforces)](https://codeforces.com/profile/jishu_76)
 
 ##
 
