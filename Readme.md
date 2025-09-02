@@ -4,6 +4,11 @@
   <img src="https://shorturl.at/njILo" width="200"/>
 </div>
 
+<div align="right">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Tech-Psycho95&left_text=%f0%9f%90%8d" style="width:64px"/>
+</div>
+
+
 ---
 
 <div align="center">
