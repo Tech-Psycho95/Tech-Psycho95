@@ -152,7 +152,13 @@
 
 ![github graph stats](https://github-readme-activity-graph.vercel.app/graph?username=Tech-Psycho95&bg_color=0d1117&color=fdfcfc&line=707070&point=06f9f5&area=true&hide_border=true)
 
+---
 
+<div align="center">
+<img src="https://count.getloli.com/@Tech-Psycho95?name=Tech-Psycho95&theme=booru-lewd&padding=7&offset=0&align=center&scale=1&pixelated=0&darkmode=auto" />
+</div>
+
+---
 
 
 
