@@ -159,11 +159,15 @@
 
 ---
 
-<div align="center">
-<img src="https://count.getloli.com/@Tech-Psycho95?name=Tech-Psycho95&theme=booru-lewd&padding=7&offset=0&align=center&scale=1&pixelated=0&darkmode=auto" />
+<div>
+<img align="right" src="https://count.getloli.com/@Tech-Psycho95?name=Tech-Psycho95&theme=booru-lewd&padding=7&offset=0&align=center&scale=1&pixelated=0&darkmode=auto" />
+  <a href="https://codolio.com/profile/Shivam%20Singh" target="_blank">
+<img align="center" src="https://codolio.com/codolio_assets/gif-owl-transparent.GIF" width="160"/>
+  </a>
 </div>
 
 ---
+
 
 
 
