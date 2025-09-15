@@ -86,7 +86,7 @@
 <h2>CodeChef Badges</h2>
 </div>
 
-<img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/badges/CodeChefBadge.png" width="160">
+<img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/assets/CodeChefBadge.png" width="160">
 
 ##
 
