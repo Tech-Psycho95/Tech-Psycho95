@@ -184,7 +184,13 @@
 
 ---
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Doto&duration=16&pause=24&color=F7B739&width=435&lines=Hola+Mario%2C+vamos+a+divertirnos" alt="Typing SVG" /></a>
+</div>
 
+<img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/assets/Mario_Gameplay.gif">
+
+---
 
 
 
