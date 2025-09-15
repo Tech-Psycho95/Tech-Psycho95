@@ -82,6 +82,22 @@
 [![Static Badge](https://skills.syvixor.com/api/icons?i=codechef)](https://www.codechef.com/users/omaratsu_53)
 [![Static Badge](https://skills.syvixor.com/api/icons?i=codeforces)](https://codeforces.com/profile/jishu_76)
 
+<div align="center">
+<h2>CodeChef Badges</h2>
+</div>
+
+<img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/badges/CodeChefBadge.png" width="160">
+
+##
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&duration=20&pause=30&color=3366BB&width=300&lines=HACKTOBERFEST+BADGES" alt="Typing SVG" /></a>
+</div>
+
+<p align="center">
+<img src="https://assets.holopin.io/hf2025levels/lvl0-alien.webp" width="160">
+</p>
+
 ##
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=0.15rem&duration=4&pause=32&random=true&width=96&lines=Social%3A" alt="Typing SVG" /></a>
