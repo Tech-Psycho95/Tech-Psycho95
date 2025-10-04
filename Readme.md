@@ -88,6 +88,15 @@
 
 <img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/assets/CodeChefBadge.png" width="160">
 
+<div align="center">
+<h2>My Other Badges:</h2>
+</div>
+
+<div align="center">
+<img src="https://media2.dev.to/dynamic/image/width=160,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F392%2FWLH_Badges-05.png"/>
+<p>World's Largest Hackathon Writing Challenge Completion</p>
+</div>
+
 ##
 
 <div align="center">
