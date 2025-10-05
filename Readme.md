@@ -93,8 +93,10 @@
 </div>
 
 <div align="center">
+  <a href="https://dev.to/shastraa_430">
 <img src="https://media2.dev.to/dynamic/image/width=160,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F392%2FWLH_Badges-05.png"/>
 <p>World's Largest Hackathon Writing Challenge Completion</p>
+  </a>
 </div>
 
 ##
