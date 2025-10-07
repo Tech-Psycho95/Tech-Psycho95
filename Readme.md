@@ -203,7 +203,12 @@
 
 ---
 
+<div align="center">
 <a href="https://app.daily.dev/shivin"><img src="https://api.daily.dev/devcards/v2/P0rC6xfj3LEqHMSwa2exQ.png?r=j7f" width="260" alt="Shivam's Dev Card"/></a>
+<a href="https://codolio.com/profile/Shivam Singh/card"><img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/assets/profileCard.png" width="260"/></a>
+</div>
+
+---
 
 
 
