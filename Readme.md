@@ -86,7 +86,18 @@
 <h2>CodeChef Badges</h2>
 </div>
 
-<img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/badges/CodeChefBadge.png" width="160">
+<img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/assets/CodeChefBadge.png" width="160">
+
+<div align="center">
+<h2>My Other Badges:</h2>
+</div>
+
+<div align="center">
+  <a href="https://dev.to/shastraa_430">
+<img src="https://media2.dev.to/dynamic/image/width=160,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F392%2FWLH_Badges-05.png"/>
+  </a>
+<p>World's Largest Hackathon Writing Challenge Completion</p>
+</div>
 
 ##
 
@@ -184,7 +195,15 @@
 
 ---
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Doto&duration=16&pause=24&color=F7B739&width=435&lines=Hola+Mario%2C+vamos+a+divertirnos" alt="Typing SVG" /></a>
+</div>
 
+<img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/assets/Mario_Gameplay.gif">
+
+---
+
+<a href="https://app.daily.dev/shivin"><img src="https://api.daily.dev/devcards/v2/P0rC6xfj3LEqHMSwa2exQ.png?r=j7f" width="260" alt="Shivam's Dev Card"/></a>
 
 
 
