@@ -137,7 +137,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tech-Psycho95&repo=streamflow)](https://github.com/Tech-Psycho95/streamflow)
 
 <div align="right"> 
-<img src="https://i.giphy.com/lGB3DKEWgAbuix9Wp5.webp" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRnbmhleDM1eXQyNnV5aHhmMnZwY2Z5OWxicjFhbzY0czJ1cWhhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WkeXjFoubG449UdbGh/giphy.gif" />
 </div>
 
 ##
