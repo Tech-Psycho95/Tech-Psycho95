@@ -211,7 +211,9 @@
 
 ---
 
-[](https://github-contributor-stats.vercel.app/api?username=Tech-Psycho95&theme=dark&combine_all_yearly_contributions=true)
+![Repos I contributed to](https://github-contrib-stats.vercel.app/Tech-Psycho95/contributed.svg)
+![Repos I created](https://github-contrib-stats.vercel.app/Tech-Psycho95/created.svg)
+
 
 
 
