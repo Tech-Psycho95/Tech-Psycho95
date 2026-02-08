@@ -128,13 +128,13 @@
 </div>
   
 <div align="center">
-<img src="https://github-stats-alpha.vercel.app/api?username=Tech-Psycho95&cc=000&tc=28c71f&ic=ff9747&bc=000&" />
+<img src="https://github-stats-alpha.vercel.app/api?username=Tech-Psycho95&cc=000&tc=28c71f&ic=ff9747&bc=000" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tech-Psycho95&hide=typescript,javascript,kotlin&layout=compact&theme=radical&card_width=240" />
 </div>
 
 <h2 align="center">Top Repos:</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tech-Psycho95&repo=streamflow)](https://github.com/Tech-Psycho95/streamflow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tech-Psycho95&repo=streamflo)](https://github.com/Tech-Psycho95/streamflo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tech-Psycho95&repo=Netflix-clone)](https://github.com/Tech-Psycho95/Netflix-clone)
 
 <div align="right"> 
