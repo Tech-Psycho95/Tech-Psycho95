@@ -124,7 +124,7 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Tech-Psycho95&show_icons=true&theme=ambient_gradient&hide=issues,stars&hide_border=true&text_color=00001f&locale=ja&card_width=240&rank_icon=github" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tech-Psycho95&theme=gotham" alt="GitHub Streak" /></a>
 </div>
   
 <div align="center">
@@ -184,6 +184,12 @@
 ###
 
 ![github graph stats](https://github-readme-activity-graph.vercel.app/graph?username=Tech-Psycho95&bg_color=0d1117&color=fdfcfc&line=707070&point=06f9f5&area=true&hide_border=true)
+<div align="right">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tech-Psycho95&theme=gruvbox">
+</div>
+<div align="left">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tech-Psycho95&theme=gruvbox">
+</div>
 
 ---
 
