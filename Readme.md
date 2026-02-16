@@ -225,10 +225,13 @@
 </div>
 
 <div align="center">
+   <a href="https://www.jwoc.in">
 <img src="https://www.jwoc.in/images/jwoc-logo-removebg-preview.png" width="160" height="100%">
-  <a href="https://www.jwoc.in"></a>
+   </a>
 
+<a href="https://www.osconnect.org">
 <img src="https://www.osconnect.org/_next/image?url=%2Flogo1.png&w=48&q=75" width="120" height="100%">
+</a>
 </div>
 
 <div align="center">
