@@ -59,6 +59,10 @@
 <img src="https://tinyurl.com/3kdzj8hc" width="120"/></h2>
 </div>
 
+<div align="center">
+<img src="https://imgur.com/dBaSKWF.gif" width="100%" height="40">
+</div>
+
 <div align="left">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=git,github,html,css,python,netlify,vscode,angular,javascript" />
@@ -213,6 +217,22 @@
 <div align="center">
 <a href="https://app.daily.dev/shivin"><img src="https://api.daily.dev/devcards/v2/P0rC6xfj3LEqHMSwa2exQ.png?r=j7f" width="260" alt="Shivam's Dev Card"/></a>
 <a href="https://codolio.com/profile/Shivam Singh/card"><img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/assets/profileCard.png" width="260"/></a>
+</div>
+
+<div align="center">
+<img src="https://imgur.com/dBaSKWF.gif" height="40" width="100%">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=20&pause=20&color=DC9921EB&center=true&width=600&lines=Open+Source+Programs+I'm+Currently+Working+In" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
+<img src="https://www.jwoc.in/images/jwoc-logo-removebg-preview.png" width="160" height="100%">
+  <a href="https://www.jwoc.in"></a>
+
+<img src="https://www.osconnect.org/_next/image?url=%2Flogo1.png&w=48&q=75" width="120" height="100%">
+</div>
+
+<div align="center">
+<img src="https://imgur.com/dBaSKWF.gif" height="40" width="100%">
 </div>
 
 ---
