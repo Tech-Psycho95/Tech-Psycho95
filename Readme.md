@@ -65,7 +65,7 @@
 
 <div align="left">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,github,html,css,python,netlify,vscode,angular,javascript" />
+<img src="https://skillicons.dev/icons?i=git,github,html,css,python,netlify,vscode,angular,javascript,react" />
 </a>
 </div>
 <div align="right">
