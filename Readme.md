@@ -224,13 +224,18 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=20&pause=20&color=DC9921EB&center=true&width=600&lines=Open+Source+Programs+I'm+Currently+Working+In" alt="Typing SVG" /></a>
 </div>
 
-<div align="center">
+<div align="left">
    <a href="https://www.jwoc.in">
+     <a href="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/assets/jwoc-mentee-badge-SHIVAM.png">
 <img src="https://www.jwoc.in/images/jwoc-logo-removebg-preview.png" width="160" height="100%">
+     </a>
    </a>
+</div>
 
+<div align="right">
 <a href="https://www.osconnect.org">
 <img src="https://www.osconnect.org/_next/image?url=%2Flogo1.png&w=48&q=75" width="120" height="100%">
+  <img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/assets/NexFellow%20Campus%20Lead%20Banner.jpg.jpeg" height="100%" width="490"/>
 </a>
 </div>
 
