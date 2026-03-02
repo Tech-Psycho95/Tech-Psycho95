@@ -250,7 +250,7 @@
 ---
 
 <div align="center">
-<img src="https://shorturl.at/KSEG5" widht="640" />
+<img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/images/Martial%20Arts%20Fight%20GIF%20by%20Xbox.gif" />
 </div>
 
 
