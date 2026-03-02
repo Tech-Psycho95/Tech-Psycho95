@@ -32,7 +32,11 @@
 ---
 
 <div align="center">
-<h2>🎨 What I've Built So Far:</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=30&pause=40&color=CBF7D9&background=FF4F1100&center=true&vCenter=true&width=440&lines=What+I've+Build+So+Far!" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
+<img src="https://imgur.com/dBaSKWF.gif" height="40" width="100%">
 </div>
 
 <div align="center">
@@ -55,13 +59,11 @@
 ---
 
 <div align="center">
-<h2>Tools & Skills:
-<img src="https://tinyurl.com/3kdzj8hc" width="120"/></h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=20&pause=38&color=4B62F7&center=true&vCenter=true&repeat=false&width=180&lines=Tools+%26+Skills%3A" alt="Typing SVG" /></a>
+<img src="https://tinyurl.com/3kdzj8hc" width="120"/>
 </div>
 
-<div align="center">
 <img src="https://imgur.com/dBaSKWF.gif" width="100%" height="40">
-</div>
 
 <div align="left">
 <a href="https://skillicons.dev">
@@ -71,6 +73,8 @@
 <div align="right">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanl0cThmdHF3dW8yd2Z5aDF0MzhwNDZlOTFxeXZxNmt3azR3cnVuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6U47YlEnJQNeb05Csh/giphy.gif" width="320"/>
 </div>
+
+<img src="https://imgur.com/dBaSKWF.gif" width="100%" height="40">
 
 ---
 
@@ -93,7 +97,7 @@
 <img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/assets/CodeChefBadge.png" width="160">
 
 <div align="center">
-<h2>My Other Badges:</h2>
+<h2>My Badges:</h2>
 </div>
 
 <div align="center">
