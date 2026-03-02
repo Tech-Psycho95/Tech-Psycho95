@@ -1,5 +1,5 @@
 <div style="display: center; align-items: center; justify-content: center">
-<img src="https://i.giphy.com/hvRJCLFzcasrR4ia7z.webp" width="120" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRhY2xwMXd1NTRmcmxtcWd1cm9oaDhidWVxbmJ1aWh1Y2I5ZTNhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rJoIQAB0rrRte/giphy.gif" width="120" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&duration=3000&pause=150&color=00F758&lines=Hi%2C+I'm+Shivam;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%2C+%E0%A4%AE%E0%A5%88%E0%A4%82+%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%AE+%E0%A4%B9%E0%A5%82%E0%A4%81;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%82%B7%E3%83%B4%E3%82%A1%E3%83%A0%E3%81%A7%E3%81%99;Hallo%2C+ich+bin+Shivam;Salut%2C+je+suis+Shivam;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%A8%D0%B8%D0%B2%D0%B0%D0%BC;%CE%93%CE%B5%CE%B9%CE%B1%2C+%CE%B5%CE%AF%CE%BC%CE%B1%CE%B9+%CE%BF+Shivam;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EC%A0%80%EB%8A%94+%EC%8B%9C%EB%B0%A4%EC%9E%85%EB%8B%88%EB%8B%A4" alt="Typing SVG" /></a>
   <img src="https://shorturl.at/njILo" width="200"/>
 </div>
@@ -59,9 +59,13 @@
 <img src="https://tinyurl.com/3kdzj8hc" width="120"/></h2>
 </div>
 
+<div align="center">
+<img src="https://imgur.com/dBaSKWF.gif" width="100%" height="40">
+</div>
+
 <div align="left">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,github,html,css,python,netlify,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,html,css,python,netlify,vscode,angular,javascript,react,tailwind,figma,bootstrap,npm,mongodb" />
 </a>
 </div>
 <div align="right">
@@ -124,20 +128,21 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Tech-Psycho95&show_icons=true&theme=ambient_gradient&hide=issues,stars&hide_border=true&text_color=00001f&locale=ja&card_width=240&rank_icon=github" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tech-Psycho95&theme=gotham" alt="GitHub Streak" /></a>
 </div>
   
 <div align="center">
-<img src="https://github-stats-alpha.vercel.app/api?username=Tech-Psycho95&cc=000&tc=28c71f&ic=ff9747&bc=000&" />
+<img src="https://github-stats-alpha.vercel.app/api?username=Tech-Psycho95&cc=000&tc=28c71f&ic=ff9747&bc=000" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tech-Psycho95&hide=typescript,javascript,kotlin&layout=compact&theme=radical&card_width=240" />
 </div>
 
 <h2 align="center">Top Repos:</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tech-Psycho95&repo=streamflow)](https://github.com/Tech-Psycho95/streamflow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tech-Psycho95&repo=streamflo)](https://github.com/Tech-Psycho95/streamflo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tech-Psycho95&repo=Netflix-clone)](https://github.com/Tech-Psycho95/Netflix-clone)
 
 <div align="right"> 
-<img src="https://i.giphy.com/lGB3DKEWgAbuix9Wp5.webp" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRnbmhleDM1eXQyNnV5aHhmMnZwY2Z5OWxicjFhbzY0czJ1cWhhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WkeXjFoubG449UdbGh/giphy.gif" />
 </div>
 
 ##
@@ -183,6 +188,12 @@
 ###
 
 ![github graph stats](https://github-readme-activity-graph.vercel.app/graph?username=Tech-Psycho95&bg_color=0d1117&color=fdfcfc&line=707070&point=06f9f5&area=true&hide_border=true)
+<div align="right">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tech-Psycho95&theme=gruvbox">
+</div>
+<div align="left">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tech-Psycho95&theme=gruvbox">
+</div>
 
 ---
 
@@ -203,7 +214,35 @@
 
 ---
 
+<div align="center">
 <a href="https://app.daily.dev/shivin"><img src="https://api.daily.dev/devcards/v2/P0rC6xfj3LEqHMSwa2exQ.png?r=j7f" width="260" alt="Shivam's Dev Card"/></a>
+<a href="https://codolio.com/profile/Shivam Singh/card"><img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/assets/profileCard.png" width="260"/></a>
+</div>
+
+<div align="center">
+<img src="https://imgur.com/dBaSKWF.gif" height="40" width="100%">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=20&pause=20&color=DC9921EB&center=true&width=600&lines=Open+Source+Programs+I'm+Currently+Working+In" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
+   <a href="https://www.jwoc.in">
+<img src="https://www.jwoc.in/images/jwoc-logo-removebg-preview.png" width="160" height="100%">
+   </a>
+
+<a href="https://www.osconnect.org">
+<img src="https://www.osconnect.org/_next/image?url=%2Flogo1.png&w=48&q=75" width="120" height="100%">
+</a>
+</div>
+
+<div align="center">
+<img src="https://imgur.com/dBaSKWF.gif" height="40" width="100%">
+</div>
+
+---
+
+![Repos I contributed to](https://github-contrib-stats.vercel.app/Tech-Psycho95/contributed.svg)
+![Repos I created](https://github-contrib-stats.vercel.app/Tech-Psycho95/created.svg)
+
 
 
 
