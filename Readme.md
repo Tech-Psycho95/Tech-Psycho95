@@ -257,7 +257,14 @@
 <img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/images/Martial%20Arts%20Fight%20GIF%20by%20Xbox.gif" />
 </div>
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0vmFuEhyHR8SbOhDFq021Y?utm_source=generator" width="60%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+---
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=32mxm22yq7ctolvihcaifgrcn&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=32mxm22yq7ctolvihcaifgrcn&cover_image=true&theme=spotify-embed&show_offline=true&background_color=561515&interchange=true&profanity=true&bar_color=058f00&bar_color_cover=true&mode=dark">
+  </a>
+</p>
+
 
 
 
