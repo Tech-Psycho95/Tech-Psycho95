@@ -29,6 +29,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Federant&duration=4000&pause=200&color=005DF7&center=true&repeat=false&width=560&lines=Build+great+fluency+in+multiple+programming+languages)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73030&repeat=false&width=700&height=75&lines=On+a+journey+to+master+Ethical+Hacking+and+Cyber+Defense)](https://git.io/typing-svg)
+
 ---
 
 <div align="center">
