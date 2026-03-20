@@ -93,12 +93,6 @@
 [![Static Badge](https://skills.syvixor.com/api/icons?i=codeforces)](https://codeforces.com/profile/jishu_76)
 
 <div align="center">
-<h2>CodeChef Badges</h2>
-</div>
-
-<img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/assets/CodeChefBadge.png" width="160">
-
-<div align="center">
 <h2>My Badges:</h2>
 </div>
 
