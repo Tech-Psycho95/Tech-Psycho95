@@ -69,7 +69,7 @@
 
 <div align="left">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,github,html,css,python,netlify,vscode,angular,javascript,react,tailwind,figma,bootstrap,npm,mongodb" />
+<img src="https://skillicons.dev/icons?i=git,github,html,css,python,netlify,vscode,angular,javascript,react,tailwind,figma,bootstrap,npm,mongodb,solidity,nodejs" />
 </a>
 </div>
 <div align="right">
