@@ -221,7 +221,7 @@
 
 <div align="center">
 <img src="https://imgur.com/dBaSKWF.gif" height="40" width="100%">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=20&pause=20&color=DC9921EB&center=true&width=600&lines=Open+Source+Programs+I'm+Currently+Working+In" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=20&pause=20&color=DC9921EB&center=true&width=600&lines=Open+Source+Programs+I+have+Contributed+In" alt="Typing SVG" /></a>
 </div>
 
 <div align="left">
