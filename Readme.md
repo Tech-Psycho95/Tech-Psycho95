@@ -21,9 +21,9 @@
 <h2>🎯 My Future Goals:</h2>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Federant&duration=4000&pause=200&color=005DF7&center=true&repeat=false&width=464&lines=Make+clean+%26+responsive+websites)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Federant&duration=4000&pause=200&color=005DF7&center=true&repeat=false&width=464&lines=Make+scalable+%26+responsive+websites)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Federant&duration=4000&pause=200&color=005DF7&center=true&repeat=false&width=464&lines=To+build+good+games+using+C%2B%2B+%26+game+engines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Federant&duration=3000&pause=20&color=D0F799&multiline=true&width=1102&height=100&lines=Build+hyper%E2%80%91immersive+games+by+combining;programming+languages+with+powerful+game+engines)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Federant&duration=4000&pause=200&color=005DF7&center=true&repeat=false&width=480&lines=Understanding+git+%26+github+more+in-depth)](https://git.io/typing-svg)
 
