@@ -49,7 +49,7 @@
 ---
 
 <div>
-<img src="https://tinyurl.com/ya4rrr3s" />
+<img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/images/ayanokoji-san.jpg" />
 </div>
 <div align="left">
   <a href="https://codedex.io/@PALT" target="_blank" />
