@@ -245,6 +245,8 @@
 ---
 
 ![Repos I contributed to](https://github-contrib-stats.vercel.app/Tech-Psycho95/contributed.svg)
+<div align="center"><img src="https://typograssy.deno.dev/api?scheme=github&text=DEV%20PARAMETER&comment=Generated%20by%20Tech-Psycho95"/></div>
+
 ![Repos I created](https://github-contrib-stats.vercel.app/Tech-Psycho95/created.svg)
 
 ---
