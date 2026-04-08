@@ -251,11 +251,14 @@
 
 ---
 
-<div align="center">
+<div align="left">
 <img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/images/Martial%20Arts%20Fight%20GIF%20by%20Xbox.gif" />
 </div>
+<div align="right">
+<img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/assets/gif.gif">
+</div>
 
-<p align="right">
+<p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=32mxm22yq7ctolvihcaifgrcn&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=32mxm22yq7ctolvihcaifgrcn&cover_image=true&theme=spotify-embed&show_offline=true&background_color=561515&interchange=true&profanity=true&bar_color=058f00&bar_color_cover=true&mode=dark">
   </a>
