@@ -255,7 +255,7 @@
 <img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/images/Martial%20Arts%20Fight%20GIF%20by%20Xbox.gif" />
 </div>
 <div align="right">
-<img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/assets/gif.gif">
+<img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/assets/ka.gif">
 </div>
 
 <p align="center">
