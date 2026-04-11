@@ -48,9 +48,7 @@
 
 ---
 
-<div>
-<img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/images/ayanokoji-san.jpg" />
-</div>
+<img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/images/ayanokoji-san.jpg" width="100%" height="100%"/>
 <div align="left">
   <a href="https://codedex.io/@PALT" target="_blank" />
   <img src="https://tinyurl.com/2s39anjn" width="200"/>
@@ -255,7 +253,7 @@
 <img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/images/Martial%20Arts%20Fight%20GIF%20by%20Xbox.gif" />
 </div>
 <div align="right">
-<img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/assets/gif.gif">
+<img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/assets/ka.gif" width="70%" height="60%">
 </div>
 
 <p align="center">
