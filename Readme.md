@@ -74,7 +74,8 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanl0cThmdHF3dW8yd2Z5aDF0MzhwNDZlOTFxeXZxNmt3azR3cnVuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6U47YlEnJQNeb05Csh/giphy.gif" width="320"/>
 </div>
 
-<img src="https://imgur.com/dBaSKWF.gif" width="100%" height="40">
+<img src="https://imgur.com/dBaSKWF.g
+if" width="100%" height="40">
 
 ---
 
@@ -240,6 +241,8 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=32mxm22yq7ctolvihcaifgrcn&cover_image=true&theme=spotify-embed&show_offline=true&background_color=561515&interchange=true&profanity=true&bar_color=058f00&bar_color_cover=true&mode=dark">
   </a>
 </p>
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhhb3BhbXZnOGd5b3ZjeXc3cTR3NzExd3ZlYjc4M3Rscm01bjYwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wg9X0OuYGdAtyOrZnP/giphy.gif" width="320" />
 
 ---
 
