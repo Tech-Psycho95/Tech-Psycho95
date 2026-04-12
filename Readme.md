@@ -97,27 +97,6 @@
 [![My Profile](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shivam-singh-a879602ba/)
 [![My Profile](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ergon_999/)
 
-<div align="center">
-<h2>My Badges:</h2>
-</div>
-
-<div align="center">
-  <a href="https://dev.to/shastraa_430">
-<img src="https://media2.dev.to/dynamic/image/width=160,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F392%2FWLH_Badges-05.png"/>
-  </a>
-<p>World's Largest Hackathon Writing Challenge Completion</p>
-</div>
-
-##
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&duration=20&pause=30&color=3366BB&width=300&lines=HACKTOBERFEST+BADGES" alt="Typing SVG" /></a>
-</div>
-
-<p align="center">
-<img src="https://assets.holopin.io/hf2025levels/lvl0-alien.webp" width="160">
-</p>
-
 ---
 
 <div align="center">
