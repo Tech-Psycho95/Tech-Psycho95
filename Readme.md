@@ -53,7 +53,7 @@
   <a href="https://codedex.io/@PALT" target="_blank" />
   <img src="https://tinyurl.com/2s39anjn" width="200"/>
   </a>
-  <img align="right" src="https://tinyurl.com/2sukja67" />
+  <img align="right" src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/assets/space.gif" />
 </div>
 
 ---
