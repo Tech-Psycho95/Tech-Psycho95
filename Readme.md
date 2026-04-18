@@ -246,6 +246,16 @@ if" width="100%" height="40">
 
 ---
 
+<div align="center">
+<a href="https://devfolio.co/@werner_goose">
+<img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/images/Devfolio%20-%20White%402x.png" width="30%" height="100%"/>
+</a>
+</div>
+
+<div align="right">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I+move+through+challenges+like+light+through+glass—quietly+shaping+,+yet+unmistakably+radiant">
+</div>
+
 
 
 
