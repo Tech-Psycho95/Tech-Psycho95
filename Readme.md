@@ -21,9 +21,9 @@
 <h2>🎯 My Future Goals:</h2>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Federant&duration=4000&pause=200&color=005DF7&center=true&repeat=false&width=464&lines=Make+scalable+%26+responsive+websites)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Federant&duration=4000&pause=200&color=005DF7&center=true&repeat=false&width=464&lines=💻Make+scalable+%26+responsive+websites)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Federant&duration=3000&pause=20&color=D0F799&multiline=true&width=1102&height=100&lines=Build+hyper%E2%80%91immersive+games+by+combining;programming+languages+with+powerful+game+engines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=2000&pause=30&color=F7230E&multiline=true&repeat=false&height=91&lines=🕹️Build+Hyper+Immersive+Games+;by+combining+programming+languages;%26+game+engines)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Federant&duration=4000&pause=200&color=005DF7&center=true&repeat=false&width=480&lines=Understanding+git+%26+github+more+in-depth)](https://git.io/typing-svg)
 
@@ -43,7 +43,7 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&duration=3000&pause=200&color=005DF7&center=true&vCenter=true&width=560&lines=%E2%9C%A8+Netflix+U.I+Clone;%F0%9F%93%84+Basic+HTML+Blog+Page+On+India;🧨+And+more+builds+one+the+way...." alt="Typing SVG" /></a>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXk2MnVwbm1hNnB5ang3Mm5ybG9naDk5NDE5ejUzZW4wc2ZqdGN5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkNBtlymM6zX4DndrU/giphy.gif">
+  <img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/assets/gif%20(2).gif" width="60%" height="50%">
 </div>
 
 ---
@@ -53,7 +53,7 @@
   <a href="https://codedex.io/@PALT" target="_blank" />
   <img src="https://tinyurl.com/2s39anjn" width="200"/>
   </a>
-  <img align="right" src="https://tinyurl.com/2sukja67" />
+  <img align="right" src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/assets/space.gif" width="56%" height="100%" />
 </div>
 
 ---
@@ -74,7 +74,8 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanl0cThmdHF3dW8yd2Z5aDF0MzhwNDZlOTFxeXZxNmt3azR3cnVuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6U47YlEnJQNeb05Csh/giphy.gif" width="320"/>
 </div>
 
-<img src="https://imgur.com/dBaSKWF.gif" width="100%" height="40">
+<img src="https://imgur.com/dBaSKWF.g
+if" width="100%" height="40">
 
 ---
 
@@ -96,27 +97,6 @@
 
 [![My Profile](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shivam-singh-a879602ba/)
 [![My Profile](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ergon_999/)
-
-<div align="center">
-<h2>My Badges:</h2>
-</div>
-
-<div align="center">
-  <a href="https://dev.to/shastraa_430">
-<img src="https://media2.dev.to/dynamic/image/width=160,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F392%2FWLH_Badges-05.png"/>
-  </a>
-<p>World's Largest Hackathon Writing Challenge Completion</p>
-</div>
-
-##
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&duration=20&pause=30&color=3366BB&width=300&lines=HACKTOBERFEST+BADGES" alt="Typing SVG" /></a>
-</div>
-
-<p align="center">
-<img src="https://assets.holopin.io/hf2025levels/lvl0-alien.webp" width="160">
-</p>
 
 ---
 
@@ -261,6 +241,8 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=32mxm22yq7ctolvihcaifgrcn&cover_image=true&theme=spotify-embed&show_offline=true&background_color=561515&interchange=true&profanity=true&bar_color=058f00&bar_color_cover=true&mode=dark">
   </a>
 </p>
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhhb3BhbXZnOGd5b3ZjeXc3cTR3NzExd3ZlYjc4M3Rscm01bjYwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wg9X0OuYGdAtyOrZnP/giphy.gif" width="320" />
 
 ---
 
