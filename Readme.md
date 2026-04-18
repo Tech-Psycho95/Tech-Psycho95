@@ -252,6 +252,10 @@ if" width="100%" height="40">
 </a>
 </div>
 
+<div align="right">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I+move+through+challenges+like+light+through+glass—quietly+shaping+,+yet+unmistakably+radiant">
+</div>
+
 
 
 
