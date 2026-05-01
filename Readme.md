@@ -119,7 +119,7 @@ if" width="100%" height="40">
 <h2 align="center">Top Repos:</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tech-Psycho95&repo=streamflo)](https://github.com/Tech-Psycho95/streamflo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tech-Psycho95&repo=Netflix-clone)](https://github.com/Tech-Psycho95/Netflix-clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tech-Psycho95&repo=Hand-Detection)](https://github.com/Tech-Psycho95/Hand-Detection)
 
 <div align="right"> 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRnbmhleDM1eXQyNnV5aHhmMnZwY2Z5OWxicjFhbzY0czJ1cWhhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WkeXjFoubG449UdbGh/giphy.gif" />
