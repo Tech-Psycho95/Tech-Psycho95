@@ -262,6 +262,9 @@ if" width="100%" height="40">
   <img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/assets/gif%20(3).gif" width="40%" height="20%">
 </div>
 
+<div align="right">
+  <img src="https://github.com/Tech-Psycho95/Tech-Psycho95/blob/master/assets/gif5-ezgif.com-rotate.gif"/>
+</div>
 
 
 
