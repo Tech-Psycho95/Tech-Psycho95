@@ -239,7 +239,7 @@ if" width="100%" height="40">
 </div>
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=32mxm22yq7ctolvihcaifgrcn&redirect=true">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31erpvpw3u4k2aihlz4qbo7cm62m&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=32mxm22yq7ctolvihcaifgrcn&cover_image=true&theme=spotify-embed&show_offline=true&background_color=561515&interchange=true&profanity=true&bar_color=058f00&bar_color_cover=true&mode=dark">
   </a>
 </p>
