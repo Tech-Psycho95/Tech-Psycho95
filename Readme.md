@@ -255,7 +255,7 @@ if" width="100%" height="40">
 </div>
 
 <div align="right">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Building+,+testing+,+breaking+-+shaping+my+personality+each+day+for+a+fearless+version+to+emerge">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Everyone+is+born+to+enjoy+illusions+while+some+are+cursed+to+see+the+truth">
 </div>
 
 <div align="center">
